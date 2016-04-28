@@ -314,6 +314,20 @@ def dump_all(data: List[Any], stream: IO) -> None: ...
 
 ---
 
+# When You Know You're Right...
+
+If you disagree with the type checker, you can force the type:
+
+```python
+from typing import cast
+
+x = 1 + cast(int, "uh oh")
+```
+
+> This can be an annoying source of bugs, use with caution!
+
+---
+
 template: inverse
 
 # Type Checking with Mypy
