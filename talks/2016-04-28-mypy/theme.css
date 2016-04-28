@@ -27,6 +27,12 @@ p {
     line-height: 0.8em;
 }
 
+.inverse a {
+    color: #ECEFF1;
+    text-decoration: none;
+    font-family: monospace;
+}
+
 blockquote {
     border-left: 3px solid #EF6C00;
     padding-left: 0.75em;

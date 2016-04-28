@@ -11,6 +11,8 @@ martin@geisler.net
 
 2016-04-28 — PyZurich
 
+.small[https://github.com/mgeisler/pyzurich/]
+
 ---
 layout: false
 
