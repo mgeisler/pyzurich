@@ -1,4 +1,11 @@
-from typing import List, Dict, Union, cast
+from typing import List, Dict, Union, cast, TypeVar
+
+
+T = TypeVar('T')
+
+
+def first(elements: List[T]) -> T:
+    return elements[0]
 
 
 def sorted_keys(d: Dict[str, int]) -> List[str]:
