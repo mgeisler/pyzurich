@@ -19,10 +19,12 @@ Slides and materials from talks in the
 * 2014-04-03: *SQLAlchemy: Python SQL Toolkit and Object Relational
   Mapper* by Martin Geisler • [slides][2014-04-03a] •
   [examples][2014-04-03b]
-* 2015-06-18: *Making Robots Walk with Python* by Radomir Dopieralski
-  • [slides][2015-06-18]
 * 2015-05-12: *PyParsing* by Martin Geisler • [notebook][2015-05-12a]
   • [examples][2015-05-12b]
+* 2015-06-18: *Making Robots Walk with Python* by Radomir Dopieralski
+  • [slides][2015-06-18]
+* 2015-10-29: *Controlling Hardware with Python* by Danilo Bargen
+  • [slides][2015-10-29a] • [links][2015-10-29b]
 * 2015-12-10: *Introduction to Regular Expressions* by Dariusz Smigiel
   • [slides][2015-12-10]
 * 2016-03-03: *Morepath!* by Denis Krienbühl • [slides][2016-03-03]
@@ -45,6 +47,8 @@ Slides and materials from talks in the
 [2015-05-12a]: talks/2015-05-12-pyparsing/PyParsing.ipynb
 [2015-05-12b]: talks/2015-05-12-pyparsing/
 [2015-06-18]: https://mgeisler.github.io/pyzurich/talks/2015-06-18-robots/
+[2015-10-29a]: https://mgeisler.github.io/pyzurich/talks/2015-10-29-hardware-with-python/slides.pdf
+[2015-10-29b]: https://mgeisler.github.io/pyzurich/talks/2015-10-29-hardware-with-python/links.txt
 [2015-12-10]: https://mgeisler.github.io/pyzurich/talks/2015-12-10-introduction-to-re/python_re.pdf
 [2016-03-03]: https://mgeisler.github.io/pyzurich/talks/2016-03-03-morepath-introduction/morepath-introduction-at-pyzurich.pdf
 [2016-03-08a]: https://mgeisler.github.io/pyzurich/talks/2016-03-08-gnuradio/pres.odp

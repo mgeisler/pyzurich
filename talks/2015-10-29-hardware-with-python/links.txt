@@ -1,0 +1,2 @@
+- RPLCD library: https://github.com/dbrgn/RPLCD
+- RPLCD blogpost: https://blog.dbrgn.ch/2014/4/20/scrolling-text-with-rplcd/
