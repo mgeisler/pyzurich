@@ -7,24 +7,38 @@ Slides and materials from talks in the
 
 # Talks
 
+## 2010
+
 * 2010-11-16: *Experiences with using Python in Mercurial* by Martin
   Geisler • [slides][2010-11-16]
+
+## 2013
+
 * 2013-04-11: *BuildBot: Continuous Integration, the Python Way* by Martin
   Geisler • [slides][2013-04-11a] • [config][2013-04-11b]
 * 2013-07-04: *The Pyramid Web Application Development Framework* by
   Martin Geisler • [slides][2013-07-04]
+
+## 2014
+
 * 2014-02-06: *Twisted is an Event-Driven Network Programming
   Framework* by Pascal Bach • [slides][2014-02-06a] •
   [examples][2014-02-06b]
 * 2014-04-03: *SQLAlchemy: Python SQL Toolkit and Object Relational
   Mapper* by Martin Geisler • [slides][2014-04-03a] •
   [examples][2014-04-03b]
+
+## 2015
+
 * 2015-06-18: *Making Robots Walk with Python* by Radomir Dopieralski
   • [slides][2015-06-18]
 * 2015-05-12: *PyParsing* by Martin Geisler • [notebook][2015-05-12a]
   • [examples][2015-05-12b]
 * 2015-12-10: *Introduction to Regular Expressions* by Dariusz Smigiel
   • [slides][2015-12-10]
+
+## 2015
+
 * 2016-03-03: *Morepath!* by Denis Krienbühl • [slides][2016-03-03]
 * 2016-03-08: *GNU Radio – Introduction to DSP* by Leszek Jakubowski •
   [slides][2016-03-08a] • [examples][2016-03-08b]
