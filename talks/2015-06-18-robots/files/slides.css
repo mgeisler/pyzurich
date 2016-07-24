@@ -1,0 +1,85 @@
+html {
+    background: #fff url(slide-background.png) no-repeat fixed;
+    background-size: 100%;
+    color #444;
+    height: 100%;
+}
+
+div.slide {
+    padding: 1em 3em;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+}
+
+body {
+    line-height: 1.35;
+    font-family: DejaVu Sans, sans-serif;
+    color: #222;
+}
+
+h1, h2, h3, h4, h5 {
+    color: #ff5757;
+    font-weight: bold;
+    font-family: DejaVu Sans, sans-serif;
+    text-shadow: 0.025em 0.05em 0 #bf2f2f;
+    letter-spacing: 0.05em;
+}
+
+a {
+    color: #ff5757;
+}
+a img {
+    border: none;
+}
+b img {
+    float: left;
+    margin: 0.25em 2em 0.25em 0;
+    display: block;
+}
+i img {
+    float: right;
+    margin: 0.25em 0 0.25em 2em;
+    display: block;
+}
+ul {
+    margin: 0;
+    padding: 0 0 0 2em;
+}
+li {
+    margin: 0.25em 0;
+    padding: 0;
+    list-style: square outside;
+}
+
+code {
+    font-size: 100%;
+}
+
+div.highlight {
+    background: transparent;
+}
+
+pre {
+    font-family: DejaVu Sans Mono, monospace;
+    line-height: 1.05;
+    font-size: 90%;
+}
+
+hr {
+   border: none;
+   border-top: 0.125em #ff5757 solid;
+   box-shadow: 0.025em 0.05em 0 #bf2f2f;
+}
+
+table {
+    width: 100%;
+    margin: 1em auto;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 0.125em solid #bf2f2f;
+}
