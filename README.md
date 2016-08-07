@@ -39,7 +39,7 @@ Slides and materials from talks in the
 * 2015-12-10: *Introduction to Regular Expressions* by Dariusz Smigiel
   • [slides][2015-12-10]
 
-## 2015
+## 2016
 
 * 2016-03-03: *Morepath!* by Denis Krienbühl • [slides][2016-03-03]
 * 2016-03-08: *GNU Radio – Introduction to DSP* by Leszek Jakubowski •
