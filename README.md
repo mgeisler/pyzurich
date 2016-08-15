@@ -21,12 +21,14 @@ Slides and materials from talks in the
 
 ## 2014
 
+* 2014-01-09: *Flask Web Framework* by Oleg Lavrovsky • [slides][2014-01-09]
 * 2014-02-06: *Twisted is an Event-Driven Network Programming
   Framework* by Pascal Bach • [slides][2014-02-06a] •
   [examples][2014-02-06b]
 * 2014-04-03: *SQLAlchemy: Python SQL Toolkit and Object Relational
   Mapper* by Martin Geisler • [slides][2014-04-03a] •
   [examples][2014-04-03b]
+* 2014-09-14: *Python with Pandas* by Oleg Lavrovsky • [notebook][2014-09-14]
 
 ## 2015
 
@@ -54,10 +56,12 @@ Slides and materials from talks in the
 [2013-04-11a]: talks/2013-04-11-buildbot/buildbot.rst
 [2013-04-11b]: talks/2013-04-11-buildbot/minimal.cfg
 [2013-07-04]: https://mgeisler.github.io/pyzurich/talks/2013-07-04-pyramid-web-framework/pyzh-pyramid.pdf
+[2014-01-09]: https://docs.google.com/presentation/d/1Y3dEvUg3VZ-ktPGH0aTk3cMWDPDxHFEJi_QAzgHK9ew/edit?usp=sharing
 [2014-02-06a]: https://mgeisler.github.io/pyzurich/talks/2014-02-06-twisted/Twisted_Presentation_2014-02-06-final.pdf
 [2014-02-06b]: talks/2014-02-06-twisted/examples/
 [2014-04-03a]: https://mgeisler.github.io/pyzurich/talks/2014-04-03-sqlalchemy/pyzh-sqlalchemy.pdf
 [2014-04-03b]: talks/2014-04-03-sqlalchemy/
+[2014-09-14]: talks/2014-09-14-pandas/
 [2015-05-12a]: talks/2015-05-12-pyparsing/PyParsing.ipynb
 [2015-05-12b]: talks/2015-05-12-pyparsing/
 [2015-06-18]: https://mgeisler.github.io/pyzurich/talks/2015-06-18-robots/
