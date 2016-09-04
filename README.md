@@ -50,6 +50,8 @@ Slides and materials from talks in the
   [slides][2016-04-07]
 * 2016-04-28: *Type Hints in Python 3* by Martin Geisler •
   [slides][2016-04-28a] • [examples][2016-04-28b]
+* 2016-09-01: *The Dictionary Type* by Martin Geisler •
+  [slides][2016-09-01]
 
 
 [2010-11-16]: https://mgeisler.github.io/pyzurich/talks/2010-11-16-mercurial/python-hg-talk.pdf
@@ -75,5 +77,6 @@ Slides and materials from talks in the
 [2016-04-07]: https://mgeisler.github.io/pyzurich/talks/2016-04-07-switch-to-python-3/
 [2016-04-28a]: https://mgeisler.github.io/pyzurich/talks/2016-04-28-mypy/
 [2016-04-28b]: talks/2016-04-28-mypy/
+[2016-09-01]: https://mgeisler.github.io/pyzurich/talks/2016-09-01-dict/
 
 [pyzurich]: http://www.meetup.com/pyzurich/
