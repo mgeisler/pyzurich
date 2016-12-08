@@ -52,6 +52,8 @@ Slides and materials from talks in the
   [slides][2016-04-28a] • [examples][2016-04-28b]
 * 2016-09-01: *The Dictionary Type* by Martin Geisler •
   [slides][2016-09-01]
+* 2016-12-08: *Asynchronous I/O* by Martin Geisler •
+  [slides][2016-12-08]
 
 
 [2010-11-16]: https://mgeisler.github.io/pyzurich/talks/2010-11-16-mercurial/python-hg-talk.pdf
@@ -78,5 +80,6 @@ Slides and materials from talks in the
 [2016-04-28a]: https://mgeisler.github.io/pyzurich/talks/2016-04-28-mypy/
 [2016-04-28b]: talks/2016-04-28-mypy/
 [2016-09-01]: https://mgeisler.github.io/pyzurich/talks/2016-09-01-dict/
+[2016-12-08]: https://mgeisler.github.io/pyzurich/talks/2016-12-08-asyncio/
 
 [pyzurich]: http://www.meetup.com/pyzurich/
