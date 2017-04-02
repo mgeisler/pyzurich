@@ -7,6 +7,9 @@ Slides and materials from talks in the
 
 # Talks
 
+Please submit pull requests if you have made a talk that is not yet on
+the list!
+
 ## 2017
 
 * 2017-03-02: *Writing command-line programs in Python* by Stefano Taschini •
