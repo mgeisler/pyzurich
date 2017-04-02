@@ -55,6 +55,11 @@ Slides and materials from talks in the
 * 2016-12-08: *Asynchronous I/O* by Martin Geisler •
   [slides][2016-12-08]
 
+## 2017
+
+* 2017-03-02: *Writing command-line programs in Python* by Stefano Taschini •
+  [slides][2017-03-02a] • [examples][2017-03-02b]
+
 
 [2010-11-16]: https://mgeisler.github.io/pyzurich/talks/2010-11-16-mercurial/python-hg-talk.pdf
 [2013-04-11a]: talks/2013-04-11-buildbot/buildbot.rst
@@ -81,5 +86,7 @@ Slides and materials from talks in the
 [2016-04-28b]: talks/2016-04-28-mypy/
 [2016-09-01]: https://mgeisler.github.io/pyzurich/talks/2016-09-01-dict/
 [2016-12-08]: https://mgeisler.github.io/pyzurich/talks/2016-12-08-asyncio/
+[2017-03-02a]: https://mgeisler.github.io/pyzurich/talks/2017-03-02-cli/
+[2017-03-02b]: talks/2017-03-02-cli/examples/
 
 [pyzurich]: http://www.meetup.com/pyzurich/
