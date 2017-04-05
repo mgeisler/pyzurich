@@ -1,0 +1,11 @@
+[package]
+name = "python-module"
+version = "0.1.0"
+authors = ["Martin Geisler <martin@geisler.net>"]
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+cpython = { version = "0.1", features = ["extension-module"] }
+zero85 = "0.2.0"

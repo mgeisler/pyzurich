@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz');
+@import url('https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic');
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic');
+
+body {
+    font-family: 'Droid Serif';
+}
+
+h1, h2, h3 {
+    font-family: 'Yanone Kaffeesatz';
+    font-weight: normal;
+    color: #00838F;
+}
+
+h1 {
+    margin-bottom: 0.5em;
+}
+
+h2 {
+    margin-top: 0.5em;
+    margin-bottom: 0.25em;
+}
+
+h3 {
+    font-style: italic;
+}
+
+p {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+a {
+    color: #f44336;
+    text-decoration: none;
+}
+
+.inverse {
+    background-color: #006064;
+    color: #ECEFF1;
+    text-shadow: 0 0 8px black;
+}
+.inverse h1, .inverse h2, .inverse h3 {
+    color: #ECEFF1;
+    line-height: 0.8em;
+}
+.inverse a {
+    color: #ECEFF1;
+    text-decoration: none;
+    font-family: monospace;
+}
+
+.bgimg h1, .bgimg h2 {
+    /* 5 shadows for extra contrast on top of background image */
+    text-shadow:  0px  0px 2px #111, -2px -2px 4px #111, -2px 2px 4px #111, 2px 2px 4px #111, 2px -2px 4px #111;
+}
+
+.bottom-right {
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
+
+blockquote {
+  background: #fdf6e3;
+  border-left: 0.3em solid #cb4b16;
+  margin: 0.5em 0.5em;
+  padding: 0.5em 1.5em;
+  quotes: "\201C""\201D""\2018""\2019";
+  font-style: italic;
+}
+blockquote:before {
+  color: #cb4b16;
+  content: open-quote;
+  font-size: 5em;
+  line-height: 0.1em;
+  margin-left: -0.25em;
+  vertical-align: -0.5em;
+}
+
+
+ol {
+    counter-reset: li;
+    padding-left: 18px
+}
+ol > li {
+    list-style: none;
+}
+ol > li:before {
+    content: counter(li) ".";
+    counter-increment: li;
+    display: inline-block;
+    width: 1.25em;
+
+    color: #EF6C00;
+    font-size: 32px;
+    font-style: italic;
+}
+
+img {
+    max-width: 100%;
+}
+
+.small {
+    font-size: 0.75em;
+}
+
+.small .remark-code {
+    font-size: 1em;
+}
+
+.credit {
+    font-size: 0.75em;
+    opacity: 0.75;
+    position: absolute;
+    left: 20px;
+    bottom: 12px;
+}
+
+.credit a {
+    font-family: inherit;
+}
+
+.remark-inline-code {
+    font-family: 'Ubuntu Mono';
+    font-size: 1.2em;
+}
