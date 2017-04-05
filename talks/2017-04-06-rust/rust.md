@@ -518,6 +518,8 @@ The `rust-cpython` crate is a high-level wrapper for the C API:
 
 * Safe: automatically manages reference counts for you
 
+Use it next time your Python code needs a performance boost!
+
 ---
 
 template: inverse
