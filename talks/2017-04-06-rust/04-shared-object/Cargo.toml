@@ -5,6 +5,3 @@ authors = ["Martin Geisler <martin@geisler.net>"]
 
 [lib]
 crate-type = ["cdylib"]
-
-[dependencies]
-sha1 = "0.2"
