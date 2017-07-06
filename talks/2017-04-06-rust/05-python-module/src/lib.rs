@@ -25,7 +25,7 @@ fn word_count_py(py: Python,
 pub fn word_count(s: String) -> HashMap<String, u64> {
     let mut counts = HashMap::new();
     for word in s.split_whitespace() {
-        if word.len() < 5 {
+        if word.len() < 6 {
             continue;
         }
         let lower = word.to_lowercase();
