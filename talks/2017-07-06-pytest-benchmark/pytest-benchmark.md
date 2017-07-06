@@ -41,6 +41,8 @@ template: inverse
 
 # Pytest Introduction
 
+https://pytest.org/
+
 ---
 
 # Pytest
@@ -172,6 +174,8 @@ def test_site_title(website):
 template: inverse
 
 # Benchmarking with pytest-benchmark
+
+http://pytest-benchmark.readthedocs.io/
 
 ---
 
