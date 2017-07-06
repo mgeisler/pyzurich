@@ -28,7 +28,7 @@ layout: false
 
 * Introduction to Rust
 
-* Python Extensions
+* Bridging Rust and Python
 
 * Conclusion
 
