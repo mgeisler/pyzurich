@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Benchmarking with pytest-benchmark</title>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="theme.css">
+    </head>
+    <body>
+        <script src="remark.min.js"></script>
+        <script>
+         // Add an [:include](path-to-md-file) macro.
+         remark.macros.include = function () {
+             var xmlhttp = new XMLHttpRequest();
+             xmlhttp.open('GET', this, false);
+             xmlhttp.send();
+             return xmlhttp.responseText;
+         };
+
+         // Add an [:includecode](path-to-source-file) macro.
+         remark.macros.includecode = function () {
+             var source = remark.macros.include.call(this);
+             return '```\n' + source + '\n```\n';
+         };
+
+         var slideshow = remark.create({
+             sourceUrl: 'pytest-benchmark.md',
+             highlightStyle: 'solarized-light',
+             highlightSpans: false,
+             highlightLanguage: 'python',
+         })
+        </script>
+    </body>
+</html>
