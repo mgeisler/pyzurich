@@ -1,0 +1,6 @@
+[package]
+name = "zero-cost"
+version = "0.1.0"
+authors = ["Martin Geisler <martin@geisler.net>"]
+
+[dependencies]

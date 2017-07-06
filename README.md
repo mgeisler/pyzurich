@@ -14,6 +14,8 @@ the list!
 
 * 2017-03-02: *Writing command-line programs in Python* by Stefano Taschini •
   [slides][2017-03-02a] • [examples][2017-03-02b]
+* 2017-04-06: *Extending Python with Rust* by Martin Geisler •
+  [slides][2017-04-06a] • [examples][2017-04-06b]
 
 
 ## 2016
@@ -69,6 +71,8 @@ the list!
   Geisler • [slides][2010-11-16]
 
 
+[2017-04-06b]: talks/2017-04-06-rust/
+[2017-04-06a]: https://mgeisler.github.io/pyzurich/talks/2017-04-06-rust/
 [2017-03-02b]: talks/2017-03-02-cli/examples/
 [2017-03-02a]: https://mgeisler.github.io/pyzurich/talks/2017-03-02-cli/
 [2016-12-08]: https://mgeisler.github.io/pyzurich/talks/2016-12-08-asyncio/
