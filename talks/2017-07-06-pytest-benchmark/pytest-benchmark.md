@@ -31,15 +31,15 @@ layout: false
 
 * From Denmark, lived in Zurich since 2010
 
-* Interested in high-level and elegant code
+* Interested in high-level and elegant code: Python, Rust, Haskell, ...
 
-* Helps organize Python meetups
+* Help organize Python meetups
 
 ---
 
 template: inverse
 
-# Pytest Introduction
+# Pytest
 
 https://pytest.org/
 
